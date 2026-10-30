@@ -1,0 +1,6 @@
+{"time_ms":0,"truth":"rest","probabilities":{"left":0.31,"right":0.31,"rest":0.38}}
+{"time_ms":250,"truth":"rest","probabilities":{"left":0.31,"right":0.31,"rest":0.38}}
+{"time_ms":500,"truth":"right","probabilities":{"left":0.08,"right":0.86,"rest":0.06}}
+{"time_ms":750,"truth":"right","probabilities":{"left":0.08,"right":0.86,"rest":0.06}}
+{"time_ms":1000,"truth":"right","probabilities":{"left":0.08,"right":0.86,"rest":0.06}}
+{"time_ms":1250,"truth":"rest","probabilities":{"left":0.31,"right":0.31,"rest":0.38}}

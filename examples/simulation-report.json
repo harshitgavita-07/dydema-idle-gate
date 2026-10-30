@@ -1,0 +1,12 @@
+{
+  "blocked_windows": 27,
+  "command_fire_rate": 0.05172413793103448,
+  "correct_fires": 3,
+  "demo": "rest, weak command evidence, strong left/right commands, then runaway right-command drift at 250 ms per window",
+  "events": 98,
+  "false_activations_per_minute": 0.0,
+  "false_fires": 0,
+  "final_audit_hash": "140fb10e64b43106ab0db3a60e26995533f15892f86cfdeb2b0febe2a1e49289",
+  "fires": 3,
+  "mean_fire_latency_ms": 666.6666666666666
+}
